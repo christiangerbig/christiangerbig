@@ -13,8 +13,9 @@ I already worked on these projects:
 - [Trackertools](https://github.com/christiangerbig/Trackertools)
   This app was created with Express/Handlebars
 - JungleSwap
+  This app was created with React/NodeJs
   - [Client Side](https://github.com/christiangerbig/JUNGLE_SWAP-client)
   - [Server Side](https://github.com/christiangerbig/JUNGLE_SWAP-server)
-  This app was created with React/NodeJs
+  
 
-You can reach me via [LinkedIn](https://www.linkedin.com/in/christian-gerbig/) or directly at chr_gerbig@wweb.de
+You can reach me via [LinkedIn](https://www.linkedin.com/in/christian-gerbig/) or directly at chr_gerbig@web.de
