@@ -4,7 +4,7 @@ My motto is: "I want to code that too and improve it." That is still my goal for
 
 I’m looking to collaborate on front end (with React or Vue) or full stack (MERN or MEVN) projects. Currently I'm improving my JavaScript skills regarding clean code and code quality.
 
-When I'm not developing I explore the deep worlds of music on YouTube to discover new songs and bands.
+When I'm not developing, I listen to music or explore the deep worlds of music on YouTube to discover new songs and bands.
 
 I already worked on these projects:
 
@@ -17,5 +17,4 @@ I already worked on these projects:
   - [Client Side](https://github.com/christiangerbig/JUNGLE_SWAP-client)
   - [Server Side](https://github.com/christiangerbig/JUNGLE_SWAP-server)
   
-
 You can reach me via [LinkedIn](https://www.linkedin.com/in/christian-gerbig/) or directly at chr_gerbig@web.de
