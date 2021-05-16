@@ -8,13 +8,14 @@ When I'm not developing, I do some coding for retro-projects or I listen to musi
 
 I already worked on these projects:
 
-- [LetterShooter](https://github.com/christiangerbig/letter-shooter)
-  My very first game I created with HTML5, CSS3, Canvas and JavaScript
-- [Trackertools](https://github.com/christiangerbig/Trackertools)
-  This app was created with Express/Handlebars
 - JungleSwap
   This app was created with React/NodeJs
   - [Client Side](https://github.com/christiangerbig/JUNGLE_SWAP-client)
   - [Server Side](https://github.com/christiangerbig/JUNGLE_SWAP-server)
+- [Trackertools](https://github.com/christiangerbig/Trackertools)
+  This app was created with Express/Handlebars
+- [LetterShooter](https://github.com/christiangerbig/letter-shooter)
+  My very first game I created with HTML5, CSS3, Canvas and JavaScript
+
   
 You can reach me via [LinkedIn](https://www.linkedin.com/in/christian-gerbig/) or directly at chr_gerbig@web.de
