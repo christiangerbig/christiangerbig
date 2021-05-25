@@ -4,7 +4,7 @@ My motto: "Learning things, improving (them) and reach the goals".
 
 I’m looking to collaborate on front end (with React or Vue) or full stack (MERN or MEVN) projects. Currently I'm improving my JavaScript skills regarding clean code and code quality.
 
-When I'm not developing, I do some coding for retro-projects or I listen to music and explore the deep worlds of music on YouTube to discover new songs and bands.
+When I'm not developing, I do some coding for retro-projects, listen to music and explore the deep worlds of music on YouTube to discover new songs and bands or read books about Contemporary History.
 
 I already worked on these projects:
 
