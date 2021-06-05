@@ -14,8 +14,8 @@ I already worked on these projects:
   - [Server Side](https://github.com/christiangerbig/creative-gallery-server) 
 - JungleSwap
   This app was created with React/NodeJs
-  - [Client Side](https://github.com/christiangerbig/JUNGLE_SWAP-client)
-  - [Server Side](https://github.com/christiangerbig/JUNGLE_SWAP-server)
+  - [Client Side](https://github.com/christiangerbig/jungle-swap-client)
+  - [Server Side](https://github.com/christiangerbig/jungle-swap-server)
 - [Trackertools](https://github.com/christiangerbig/Trackertools)
   This app was created with Express/Handlebars
 - [LetterShooter](https://github.com/christiangerbig/letter-shooter)
