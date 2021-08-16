@@ -13,7 +13,7 @@ I already worked on these projects:
   - [Client Side](https://github.com/christiangerbig/creative-gallery-client)
   - [Server Side](https://github.com/christiangerbig/creative-gallery-server) 
 - JungleSwap
-  This app was created with React/NodeJs
+  This app was created with React/Redux Toolkit/NodeJs
   - [Client Side](https://github.com/christiangerbig/jungle-swap-client)
   - [Server Side](https://github.com/christiangerbig/jungle-swap-server)
 - [Trackertools](https://github.com/christiangerbig/Trackertools)
