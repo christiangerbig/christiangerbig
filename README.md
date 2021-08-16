@@ -2,14 +2,14 @@ In March, I have completed a 9-week, intensive, full stack web development bootc
 
 My motto: "Learning things, improving (them) and reach the goals".
 
-I’m looking to collaborate on front end (with React or Vue) or full stack (MERN or MEVN) projects. Currently I'm improving my JavaScript skills regarding clean code and code quality.
+I’m looking to collaborate on front end (with React or Vue) or full stack (MERN or MEVN) projects. Currently I'm improving my JavaScript skills regarding clean code and code quality and learned to use tje Redux Toolkit in React.
 
 When I'm not developing, I do some coding for retro-projects, listen to music and explore the deep worlds of music on YouTube to discover new songs and bands or read books about Contemporary History.
 
 I already worked on these projects:
 
 - Creative Gallery
-  This app was created with React/NodeJs
+  This app was created with React/Redux Toolkit/NodeJs
   - [Client Side](https://github.com/christiangerbig/creative-gallery-client)
   - [Server Side](https://github.com/christiangerbig/creative-gallery-server) 
 - JungleSwap
