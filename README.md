@@ -1,8 +1,8 @@
-In March, I have completed a 9-week, intensive, full stack web development bootcamp at Ironhack and became a Fullstack Developer.
+In March, I have completed a 9-week, intensive, full stack web development bootcamp at Ironhack and became a Fullstack Developer. Meanwhile I improved my skills to write Clean Code and learned to apply the Redux Toolkit and TypeScript with React in my projects.
 
 My motto: "Learning things, improving (them) and reach the goals".
 
-I’m looking to collaborate on front end (with React or Vue) or full stack (MERN or MEVN) projects. Currently I'm improving my JavaScript skills regarding clean code and code quality and learned to use tje Redux Toolkit in React.
+I’m looking to collaborate on front end (with React or Vue) or full stack (MERN or MEVN) projects. 
 
 When I'm not developing, I do some coding for retro-projects, listen to music and explore the deep worlds of music on YouTube to discover new songs and bands or read books about Contemporary History.
 
