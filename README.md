@@ -1,4 +1,4 @@
-In March, I have completed a 9-week, intensive, full stack web development bootcamp at Ironhack and became a Fullstack Developer. Meanwhile I improved my skills to write Clean Code and learned to apply the Redux Toolkit and TypeScript with React in my projects.
+I have completed a 9-week, intensive, full stack web development bootcamp at Ironhack and became a Fullstack Developer. Meanwhile I improved my skills to write Clean Code and learned to apply the Redux Toolkit and TypeScript with React in my projects.
 
 My motto: "Learning things, improving (them) and reach the goals".
 
