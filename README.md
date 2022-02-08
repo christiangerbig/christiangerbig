@@ -1,6 +1,14 @@
 Hi,
 
-I'm Christian. I'm a passionate Web Developer focused on Frontend and Backend technologies. My homebase is Hamburg in Germany.
+I'm Christian. I'm a Web Developer focused on Frontend and Backend technologies. My homebase is Hamburg in Germany.
+
+I started to learn the fundamentals of Web Development by myself and as a Full Stack Web Developper at Ironhack.
+
+My skills as a developer include JavaScript(ES6), TypeScript, React, Redux, MongoDB, REST-APIs with Axios, Node.js, HTML5 & CSS3/Sass.
+
+Meanwhile I improved my skills to write Clean Code and learned in several Udemy courses to apply the Redux Toolkit and TypeScript together with React in my projects.
+
+I would like to become part of a team where I can apply, develop and share my skills.
 
 I believe in the positive power of communication with a trust in cooperative team working making an asset from sharing different points of views.
 
@@ -8,15 +16,7 @@ I like to use every aspect of new technology available to reach the goals and lo
 
 My motto: "Learning things, improving (them) and reach the goals".
 
-I started to learn the fundamentals of Web Development by myself and in the Full Stack Web Development Bootcamp at Ironhack.
-
-Meanwhile I improved my skills to write Clean Code and learned in several Udemy courses to apply the Redux Toolkit and TypeScript together with React in my projects.
-
-My skills as a developer include JavaScript (ES6), TypeScript, MongoDB, REST-APIs with Axios, Express, Handlebars, React, Redux, Node.js, HTML5 & CSS3/Sass.
-
-I’m looking to collaborate on front end (with React or Vue) or full stack (MERN or MEVN) projects and would like to become part of a team where I can apply, develop and share my skills.
-
-When I'm not developing, I do some coding for retro-projects or I listen to music and explore the deep worlds of music on YouTube to discover new songs and bands.
+When I'm not developing, I do some coding for retro coding projects in Assembler or I listen to music and explore the deep worlds of music on YouTube to discover new songs and bands.
 
 I already worked on these projects:
 
