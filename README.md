@@ -4,9 +4,11 @@ I'm Christian. I'm a Web Developer focused on Frontend and Backend technologies.
 
 I started to learn the fundamentals of Web Development by myself and as a Full Stack Web Developper at Ironhack.
 
-My skills as a developer include JavaScript(ES6), TypeScript, React, Redux, MongoDB, REST-APIs with Axios, Node.js, HTML5 & CSS3/Sass.
+My skills as a developer include JavaScript(ES6), TypeScript, React, Redux, Vue, Vuex, Cypress, MongoDB, REST-APIs with Axios, Node.js, HTML5 & CSS3/Sass.
 
-Meanwhile I improved my skills to write Clean Code and learned in several Udemy courses to apply the Redux Toolkit and TypeScript together with React in my projects.
+I improved my skills to write Clean Code and learned in several Udemy courses to apply the Redux Toolkit and TypeScript together with React in my projects.
+
+Meanwhile I dived more into agile work as a trainee developer and learned to use Vue together with Vuex and wrote tests for Cypress.
 
 I would like to become part of a team where I can apply, develop and share my skills.
 
@@ -14,9 +16,9 @@ I believe in the positive power of communication with a trust in cooperative tea
 
 I like to use every aspect of new technology available to reach the goals and love to code optimized solutions suiting individual requirements with respect to time, budget and target.
 
-My motto: "Learning things, improving (them) and reach the goals".
+My motto: Learning things, improving (them) and reach the goals.
 
-When I'm not developing, I do some coding for retro coding projects in Assembler or I listen to music and explore the deep worlds of music on YouTube to discover new songs and bands.
+When I'm not developing, I do some coding for retro coding projects in Assembler, hiking or I listen to music and explore the deep worlds of music on YouTube to discover new songs and bands.
 
 I already worked on these projects:
 
