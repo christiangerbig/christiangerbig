@@ -8,7 +8,7 @@ My skills as a developer include JavaScript(ES6), TypeScript, React, Redux, Vue,
 
 I improved my skills to write Clean Code and learned in several Udemy courses to apply the Redux Toolkit and TypeScript together with React in my projects.
 
-Meanwhile I dived more into agile work as a trainee developer and learned to use Vue together with Vuex and wrote tests for Cypress.
+Meanwhile I dived more into agile work as a trainee developer and learned to use Vue together with Vuex and wrote end-2-end tests for Cypress.
 
 I would like to become part of a team where I can apply, develop and share my skills.
 
