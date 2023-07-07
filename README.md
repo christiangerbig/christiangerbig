@@ -4,11 +4,11 @@ I'm Christian. I'm a Web Developer focused on Frontend and Backend technologies.
 
 I started to learn the fundamentals of Web Development by myself and as a Full Stack Web Developper at Ironhack.
 
-My skills as a developer include JavaScript(ES6), TypeScript, React, Redux, Vue, Vuex, Cypress, MongoDB, REST-APIs with Axios, Node.js, HTML5 & CSS3/Sass.
+My skills as a developer include JavaScript(ES6), TypeScript, React, Redux, Vue, Vuex, Cypress, MongoDB, Supabase, REST-APIs with Axios, NodeJS, NextJS, HTML5 & CSS3/SCSS/Sass.
 
 I improved my skills to write Clean Code and learned in several Udemy courses to apply the Redux Toolkit and TypeScript together with React in my projects.
 
-Meanwhile I dived more into agile work as a trainee developer and learned to use Vue together with Vuex and wrote end-2-end tests for Cypress.
+Meanwhile I dived more into agile work as a trainee developer and focused on Typescript, NextJS and React.
 
 I would like to become part of a team where I can apply, develop and share my skills.
 
@@ -22,17 +22,17 @@ When I'm not developing, I do some coding for retro coding projects in Assembler
 
 I already worked on these projects:
 
+- [Pahnke Movie Night](https://github.com/christiangerbig/pahnke-movie-night)
+  This app was created with React/Zustand/NextJS/Supabase
 - Creative Gallery
-  This app was created with React/Redux Toolkit/NodeJs
+  This app was created with React/Redux Toolkit/NodeJs/MongoDB
   - [Client Side](https://github.com/christiangerbig/creative-gallery-client)
   - [Server Side](https://github.com/christiangerbig/creative-gallery-server) 
 - JungleSwap
-  This app was created with React/Redux Toolkit/NodeJs
+  This app was created with React/Redux Toolkit/NodeJs/MongoDB
   - [Client Side](https://github.com/christiangerbig/jungle-swap-client)
   - [Server Side](https://github.com/christiangerbig/jungle-swap-server)
 - [Trackertools](https://github.com/christiangerbig/Trackertools)
   This app was created with Express/Handlebars
-- [LetterShooter](https://github.com/christiangerbig/letter-shooter)
-  My very first game I created with HTML5, CSS3, Canvas and JavaScript
 
 You can reach me via [LinkedIn](https://www.linkedin.com/in/christian-gerbig/).
