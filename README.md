@@ -1,8 +1,8 @@
 Hi,
 
-I'm Christian. I'm a Web Developer focused on Frontend and Backend technologies. My homebase is Hamburg in Germany.
+I'm Christian. I'm a Web Developer focused on Frontend technologies. My homebase is Hamburg in Germany.
 
-I started to learn the fundamentals of Web Development by myself and as a Full Stack Web Developper at Ironhack.
+I started to learn the fundamentals of Web Development by myself and as a Web Developper at Ironhack.
 
 My skills as a developer include JavaScript(ES6), TypeScript, React, Redux, Vue, Vuex, Cypress, MongoDB, Supabase, REST-APIs with Axios, NodeJS, NextJS, HTML5 & CSS3/SCSS/Sass.
 
