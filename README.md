@@ -34,5 +34,3 @@ I already worked on these projects:
   - [Server Side](https://github.com/christiangerbig/jungle-swap-server)
 - [Trackertools](https://github.com/christiangerbig/Trackertools)
   This app was created with Express/Handlebars
-
-You can reach me via [LinkedIn](https://www.linkedin.com/in/christian-gerbig/).
